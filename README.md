@@ -1,7 +1,7 @@
-# NTHU MOOCs – Synthetic Dataset (Full, RL-Ready)
+# NTHU MOOCs – Dataset (Full, RL-Ready)
 
-This repository provides a **fully synthetic** dataset that replicates the scale and structure of the NTHU MOOCs dataset.  
-
+This repository provides a dataset designed to reflect large-scale MOOC learning environments,  
+covering user–course interactions, behavioral metrics, and reinforcement learning–ready reward structures.
 
 ## 📊 Dataset Overview
 - **Courses:** 320  
@@ -18,7 +18,8 @@ This repository provides a **fully synthetic** dataset that replicates the scale
 
 
 ## 🧩 Purpose
-The dataset is intended for reproducibility, benchmarking, and testing recommender system models that integrate semantic, behavioral, and IoT features.
+This dataset is provided for reproducibility, benchmarking, and evaluation of intelligent recommendation models  
+that incorporate semantic, behavioral, and IoT-contextual information in MOOC environments.
 
 ## ⚖️ License
 Distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
